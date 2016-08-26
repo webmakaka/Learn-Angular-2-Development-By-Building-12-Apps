@@ -1,2 +1,12 @@
-# Learn-Angular-2-Development-By-Building-12-Apps
-[Eduonix] Learn Angular 2 Development By Building 12 Apps
+# [Eduonix] Learn Angular 2 Development By Building 12 Apps
+
+
+
+![Learn Angular 2 Development By Building 12 Apps](/img/angular-js.png?raw=true)
+
+
+I think I will buy this course later.
+But if anyone can share, I wont buy.
+
+I have so many materials to study.
+And even materials I bought, I do not seen yet.
