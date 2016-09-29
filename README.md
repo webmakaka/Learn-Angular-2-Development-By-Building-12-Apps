@@ -1,5 +1,7 @@
 # [Eduonix] Learn Angular 2 Development By Building 12 Apps
 
+[![Join the chat at https://gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby](https://badges.gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby.svg)](https://gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 ![Learn Angular 2 Development By Building 12 Apps](/img/angular-js.png?raw=true)
