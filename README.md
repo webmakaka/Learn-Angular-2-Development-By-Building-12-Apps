@@ -67,9 +67,14 @@ https://angular.io/docs/ts/latest/quickstart.html
     $ npm install
     $ npm start
 
-<br/>
+**Error**:
 
     app/main.ts(1,10): error TS2305: Module '"/project/01_Simple_Angular_2_website/node_modules/@angular/platform-browser-dynamic/index"' has no exported member 'bootstrap'.
+
+
+We update all project.
+
+![Application](/img/project_01_img_01.png?raw=true)
 
 
 ___
