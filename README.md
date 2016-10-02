@@ -8,14 +8,16 @@
 
 <br/>
 
-Learn Angular 2 Development By Building 12 Apps - 10$  
-https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
+Important!   
+In the video presents angular 2 RC4!!!
 
+I'm planning to work with Angular 2.0.1 and update projects if necessary to newest versions of angular
 
 
 <br/>
 
-### Angular 2.0.1
+Learn Angular 2 Development By Building 12 Apps - 10$  
+https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
 
 
 <br/>
@@ -96,6 +98,19 @@ http://getbootstrap.com/examples/starter-template/
 http://getbootstrap.com/components/#jumbotron
 
 
+<br/>
+
+05 Angular 2 Router
+
+https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
+
+![Application](/img/project_01_img_03.png?raw=true)
+
+
+
+
+<br/>
+<br/>
 
 ___
 
