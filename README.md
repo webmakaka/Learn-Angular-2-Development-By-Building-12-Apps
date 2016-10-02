@@ -14,6 +14,11 @@ https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-b
 
 
 <br/>
+
+### Angular 2.0.1
+
+
+<br/>
 <br/>
 
 I'm working on Ubuntu in docker container with debian jessie:
@@ -76,12 +81,20 @@ We update all project.
 03 Navbar Component
 
 https://www.bootstrapcdn.com/  
-https://code.jquery.com/
+https://code.jquere.com/
 
 http://getbootstrap.com/examples/starter-template/
 
 
 ![Application](/img/project_01_img_02.png?raw=true)
+
+
+<br/>
+
+04 Jumbotron Page Components
+
+http://getbootstrap.com/components/#jumbotron
+
 
 
 ___

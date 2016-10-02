@@ -9,17 +9,22 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
-var AppComponent = (function () {
-    function AppComponent() {
+var JumbotronComponent = (function () {
+    function JumbotronComponent() {
+        this.jbtHeading = 'Hello World';
+        this.jbtText = 'This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.';
+        this.jbtBtnText = 'Read More';
+        this.jbtBtnUrl = 'http://jsdev.org';
     }
-    AppComponent = __decorate([
+    JumbotronComponent = __decorate([
         core_1.Component({
-            selector: 'my-app',
-            template: "<navbar></navbar>\n                <jumbotron></jumbotron>\n                <div class=\"container\"><home></home></div>"
+            moduleId: module.id,
+            selector: 'jumbotron',
+            templateUrl: 'jumbotron.component.html'
         }), 
         __metadata('design:paramtypes', [])
-    ], AppComponent);
-    return AppComponent;
+    ], JumbotronComponent);
+    return JumbotronComponent;
 }());
-exports.AppComponent = AppComponent;
-//# sourceMappingURL=app.component.js.map
+exports.JumbotronComponent = JumbotronComponent;
+//# sourceMappingURL=jumbotron.component.js.map
