@@ -116,7 +116,7 @@ Technologies: Twitter Bootstrap
 
 <br/>
 
-02 QuickStart  Profile Component Setup
+02 QuickStart Profile Component Setup
 
 https://github.com/angular/quickstart
 
@@ -126,6 +126,10 @@ https://github.com/angular/quickstart
     $ npm start
 
 http://localhost:3000/
+
+
+![Application](/img/project_02_img_01.png?raw=true)
+
 
 
 <br/>
