@@ -6,18 +6,18 @@
 
 ![Learn Angular 2 Development By Building 12 Apps](/img/angular-js.png?raw=true)
 
+
 <br/>
 
-Important!   
+**Learn Angular 2 Development By Building 12 Apps - 10$  
+https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
+
+<br/>
+
+**Important!**   
 In the video presents angular 2 RC4!!!
 
 I'm planning to work with Angular 2.0.1 and update projects if necessary to newest versions of angular
-
-
-<br/>
-
-Learn Angular 2 Development By Building 12 Apps - 10$  
-https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
 
 
 <br/>
@@ -107,6 +107,25 @@ https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
 ![Application](/img/project_01_img_03.png?raw=true)
 
 
+
+<br/>
+
+### 02 Github Profile Searcher
+
+Technologies: Twitter Bootstrap
+
+<br/>
+
+02 QuickStart  Profile Component Setup
+
+https://github.com/angular/quickstart
+
+    $ cd 02_Github_Profile_Searcher/
+    $ git clone --depth=1 https://github.com/angular/quickstart .
+    $ npm install
+    $ npm start
+
+http://localhost:3000/
 
 
 <br/>
