@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import {GithubService} from '../services/github.service';
+import { GithubService } from '../services/github.service';
 import 'rxjs/add/operator/map';
 
 @Component({
@@ -8,7 +8,16 @@ import 'rxjs/add/operator/map';
     templateUrl: 'profile.component.html'
 })
 export class ProfileComponent {
+    // constructor(private _githubService:GithubService){
+    //     console.log("constructor");
+    // }
+
+
     constructor(private _githubService:GithubService){
-        console.log("constructor");
+        this._githubService.getUser().subscribe(user => {
+            console.log(user);
+        })
     }
+
+
 }

@@ -132,9 +132,9 @@ http://localhost:3000/
 
 <br/>
 
-03 Github Service  Get User
+03 Github Service Get User
 
-
+![Application](/img/project_02_img_02.png?raw=true)
 
 <br/>
 <br/>
