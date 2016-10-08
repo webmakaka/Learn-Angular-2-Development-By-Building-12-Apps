@@ -1,4 +1,4 @@
-t # [Eduonix] Learn Angular 2 Development By Building 12 Apps
+# [Eduonix] Learn Angular 2 Development By Building 12 Apps
 
 [![Join the chat at https://gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby](https://badges.gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby.svg)](https://gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -135,6 +135,14 @@ http://localhost:3000/
 03 Github Service Get User
 
 ![Application](/img/project_02_img_02.png?raw=true)
+
+
+<br/>
+
+04 Displaying Profile Data
+
+![Application](/img/project_02_img_03.png?raw=true)
+
 
 <br/>
 <br/>
