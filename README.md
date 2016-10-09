@@ -159,6 +159,22 @@ Looks like i had been banned on github, because I made so many connection to git
 
 ![Application](/img/project_02_img_05.png?raw=true)
 
+
+<br/>
+
+### 03 Spotify App
+
+
+<br/>
+
+02 Navbar Router Setup
+
+
+    $ cd 03_Spotify_App/
+    $ git clone --depth=1 https://github.com/angular/quickstart .
+    $ npm install
+    $ npm start
+
 <br/>
 <br/>
 
