@@ -112,7 +112,7 @@ https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
 
 ### 02 Github Profile Searcher
 
-Technologies: Twitter Bootstrap
+**Technologies:** Twitter Bootstrap
 
 <br/>
 
@@ -164,6 +164,9 @@ Looks like i had been banned on github, because I made so many connection to git
 
 ### 03 Spotify App
 
+**Technologies:** Bootswatch
+
+
 
 <br/>
 
@@ -174,6 +177,16 @@ Looks like i had been banned on github, because I made so many connection to git
     $ git clone --depth=1 https://github.com/angular/quickstart .
     $ npm install
     $ npm start
+
+<br/>
+
+https://bootswatch.com/cyborg/  
+http://getbootstrap.com/examples/starter-template/  
+
+<br/>
+
+![Application](/img/project_03_img_01.png?raw=true)
+
 
 <br/>
 <br/>
