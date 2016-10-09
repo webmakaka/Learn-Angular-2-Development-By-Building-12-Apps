@@ -9,7 +9,7 @@
 
 <br/>
 
-**Learn Angular 2 Development By Building 12 Apps - 10$  
+**Learn Angular 2 Development By Building 12 Apps - 10$**  
 https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
 
 <br/>
@@ -149,6 +149,15 @@ http://localhost:3000/
 05 Displaying User Repos
 
 ![Application](/img/project_02_img_04.png?raw=true)
+
+
+<br/>
+
+06 Search User Functionality
+
+Looks like i had been banned on github, because I made so many connection to github api.
+
+![Application](/img/project_02_img_05.png?raw=true)
 
 <br/>
 <br/>

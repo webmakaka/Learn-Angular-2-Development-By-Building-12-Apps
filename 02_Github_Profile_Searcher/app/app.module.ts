@@ -10,12 +10,13 @@ import { GithubService } from './services/github.service';
 
 import { HttpModule } from '@angular/http';
 
+import { FormsModule } from '@angular/forms';
+
 
 @NgModule({
-  imports: [ BrowserModule, HttpModule],
+  imports: [ BrowserModule, HttpModule, FormsModule],
   declarations: [ AppComponent, ProfileComponent ],
-  bootstrap: [ AppComponent ],
+  bootstrap: [ AppComponent],
   providers: [ GithubService]
-  // providers: [ GithubService]
 })
 export class AppModule { }
