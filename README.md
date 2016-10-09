@@ -189,6 +189,17 @@ http://getbootstrap.com/examples/starter-template/
 
 
 <br/>
+
+03 Search Component Service
+
+https://developer.spotify.com/web-api/endpoint-reference/
+
+<br/>
+
+![Application](/img/project_03_img_02.png?raw=true)
+
+
+<br/>
 <br/>
 
 ___
