@@ -304,6 +304,21 @@ http://localhost:3000/api/v1/todo/57fc0b30dcba0f6a8b615e7c
     $ git clone --depth=1 https://github.com/angular/quickstart .
     $ npm install
 
+    // to compile tsc
+    $ npm run tsc:w
+
+
+    # npm install -g bower
+    $ cd 04_MEAN_Todos_App/
+    $ bower init
+
+    $ bower install --save bootstrap
+
+
+![Application](/img/project_04_img_02.png?raw=true)
+
+
+
 
 
 <br/>

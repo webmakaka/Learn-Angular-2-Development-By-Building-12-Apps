@@ -1,0 +1,17 @@
+{
+  "name": "04_mean_todos_app",
+  "description": "",
+  "main": "server.js",
+  "license": "ISC",
+  "homepage": "https://github.com/marley-angular/Learn-Angular-2-Development-By-Building-12-Apps",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

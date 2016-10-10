@@ -1,5 +1,6 @@
 .idea
 typings/**
+bower_components
 node_modules
 jspm_packages
 link-checker-results.txt
