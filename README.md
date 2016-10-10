@@ -296,6 +296,17 @@ http://localhost:3000/api/v1/todo/57fc0b30dcba0f6a8b615e7c
 ![Application](/img/project_04_img_01.png?raw=true)
 
 <br/>
+
+04 Client Side Setup Bower
+
+    $ cd client/
+    $ npm init
+    $ git clone --depth=1 https://github.com/angular/quickstart .
+    $ npm install
+
+
+
+<br/>
 <br/>
 
 ___
