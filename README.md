@@ -228,7 +228,7 @@ https://developer.spotify.com/web-api/endpoint-reference/
 
 ### 04 MEAN Todos App
 
-**Technologies:**
+**Technologies:** angular2, nodejs, express, mlab
 
 <br/>
 
@@ -252,7 +252,48 @@ http://localhost:3000/
 http://localhost:3000/api/v1/todos
 
 
+<br/>
 
+03 Backend API Routes
+
+https://mlab.com/
+
+Create new --> Single-node --> Sandbox
+
+Database name: meantodosapp
+
+Add dabase user: marley
+
+Add collection: todos
+
+Add document:
+
+    {
+        "text" : "Go Out To Dinner",
+        "isCompleted" : false
+    }
+
+<br/>    
+
+    {
+        "text" : "Go Food Shopping",
+        "isCompleted" : false
+    }
+
+<br/>   
+
+{
+    "text" : "Meeting At Work",
+    "isCompleted" : false
+}
+
+<br/>
+
+http://localhost:3000/api/v1/todos/  
+http://localhost:3000/api/v1/todo/57fc0b30dcba0f6a8b615e7c
+
+
+![Application](/img/project_04_img_01.png?raw=true)
 
 <br/>
 <br/>
