@@ -213,6 +213,13 @@ https://developer.spotify.com/web-api/endpoint-reference/
 ![Application](/img/project_03_img_04.png?raw=true)
 
 <br/>
+
+06 Artist Page Album List
+
+![Application](/img/project_03_img_05.png?raw=true)
+
+
+<br/>
 <br/>
 
 ___
