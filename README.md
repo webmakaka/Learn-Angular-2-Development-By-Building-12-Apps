@@ -9,7 +9,7 @@
 
 <br/>
 
-**Learn Angular 2 Development By Building 12 Apps - 10$**  
+**Learn Angular 2 Development By Building 12 Apps - 10$** (no ref link, not any interest)  
 https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
 
 <br/>
@@ -167,7 +167,6 @@ Looks like i had been banned on github, because I made so many connection to git
 **Technologies:** Bootswatch
 
 
-
 <br/>
 
 02 Navbar Router Setup
@@ -223,6 +222,37 @@ https://developer.spotify.com/web-api/endpoint-reference/
 07 Album Component Route
 
 ![Application](/img/project_03_img_06.png?raw=true)
+
+
+<br/>
+
+### 04 MEAN Todos App
+
+**Technologies:**
+
+<br/>
+
+02 Node.js Express Server Setup
+
+    $ cd 04_MEAN_Todos_App/
+    $ npm init
+
+    $ npm install --save body-parser
+    $ npm install --save ejs
+    $ npm install --save express
+    $ npm install --save mongojs
+
+<br/>
+
+    # npm install -g nodemon
+    $ nodemon server.js
+
+
+http://localhost:3000/  
+http://localhost:3000/api/v1/todos
+
+
+
 
 <br/>
 <br/>
