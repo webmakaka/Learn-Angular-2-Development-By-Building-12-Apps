@@ -218,6 +218,11 @@ https://developer.spotify.com/web-api/endpoint-reference/
 
 ![Application](/img/project_03_img_05.png?raw=true)
 
+<br/>
+
+07 Album Component Route
+
+![Application](/img/project_03_img_06.png?raw=true)
 
 <br/>
 <br/>
