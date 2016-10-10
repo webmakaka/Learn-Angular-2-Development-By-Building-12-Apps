@@ -207,6 +207,12 @@ https://developer.spotify.com/web-api/endpoint-reference/
 
 
 <br/>
+
+05 Artist Component Route
+
+![Application](/img/project_03_img_04.png?raw=true)
+
+<br/>
 <br/>
 
 ___

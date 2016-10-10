@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { SpotifyService } from '../../services/spotify.service';
 import { Artist } from '../../../Artist';
+import { Routes, RouterModule } from '@angular/router';
 
 @Component({
     moduleId: module.id,
@@ -10,7 +11,7 @@ import { Artist } from '../../../Artist';
 
 export class SearchComponent {
 
-    searchStr:string;
+    searchStr: string;
     searchRes: Artist[];
 
     constructor(private _spotifyService:SpotifyService){
