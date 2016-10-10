@@ -200,6 +200,13 @@ https://developer.spotify.com/web-api/endpoint-reference/
 
 
 <br/>
+
+04 Search Results
+
+![Application](/img/project_03_img_03.png?raw=true)
+
+
+<br/>
 <br/>
 
 ___
