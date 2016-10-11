@@ -318,9 +318,17 @@ http://localhost:3000/api/v1/todo/57fc0b30dcba0f6a8b615e7c
 ![Application](/img/project_04_img_02.png?raw=true)
 
 
+<br/>
+
 05 Todos Component UI
 
 ![Application](/img/project_04_img_03.png?raw=true)
+
+<br/>
+
+06 Display Todos From MongoDB
+
+![Application](/img/project_04_img_04.png?raw=true)
 
 
 <br/>
