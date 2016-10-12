@@ -341,7 +341,11 @@ Update rows by Enter button
 
 ![Application](/img/project_04_img_05.png?raw=true)
 
+<br/>
 
+09 Deleting Todos
+
+![Application](/img/project_04_img_06.png?raw=true)
 
 <br/>
 <br/>
