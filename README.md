@@ -171,7 +171,6 @@ Looks like i had been banned on github, because I made so many connection to git
 
 02 Navbar Router Setup
 
-
     $ cd 03_Spotify_App/
     $ git clone --depth=1 https://github.com/angular/quickstart .
     $ npm install
@@ -333,6 +332,14 @@ http://localhost:3000/api/v1/todo/57fc0b30dcba0f6a8b615e7c
 <br/>
 
 07 Saving Todos
+
+<br/>
+
+08 Updating Todos
+
+Update rows by Enter button
+
+![Application](/img/project_04_img_05.png?raw=true)
 
 
 
