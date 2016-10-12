@@ -348,6 +348,57 @@ Update rows by Enter button
 ![Application](/img/project_04_img_06.png?raw=true)
 
 <br/>
+
+### 05 Firebase Business Listings
+
+**Technologies:** angular CLI, Firebase, Foundation
+
+<br/>
+
+02 AngularFire2  Firebase Setup
+
+    # npm install -g npm
+
+    # npm install -g angular-cli
+    $ cd 05_Firebase_Business_Listings
+    $ ng init --name "firebase_business_listings"
+    $ ng serve --host 0.0.0.0 --port 3000 --live-reload-port 1337
+
+
+http://localhost:3000/
+
+
+![Application](/img/project_05_img_01.png?raw=true)
+
+
+    $ npm install --save angularfire2
+    $ npm install --save firebase
+
+https://github.com/angular/angularfire2/
+
+
+<br/>
+
+    # npm install -g typings
+    # npm install -g typescript
+    $ typings install dt~firebase --global --save
+
+<br/>
+
+    $ ng build
+
+<br/>
+
+https://console.firebase.google.com
+
+<br/>
+
+Create a project: businesscontacts
+
+Welcome to Firebase page -- > Add Firebaset to your web app
+
+
+<br/>
 <br/>
 
 ___
