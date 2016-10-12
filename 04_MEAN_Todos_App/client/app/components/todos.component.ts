@@ -24,4 +24,21 @@ export class TodosComponent implements OnInit {
             .map(res => res.json())
             .subscribe(todos => this.todos = todos)
     }
-}
+
+    addTodo($event, todoText){
+        if($event.which === 1){
+            var result;
+            var newTodo = {
+                text: todoText.value,
+                isCompleted: false
+            };
+
+            result = this._todoService.saveTodo(newTodo);
+            result.subscribe(x => {
+                this.todos.push(newTodo)
+                todoText.value = '';
+            })
+        }
+    }
+
+} // The End of Class;
