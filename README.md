@@ -355,7 +355,7 @@ Update rows by Enter button
 
 <br/>
 
-02 AngularFire2  Firebase Setup
+02 AngularFire2 Firebase Setup
 
     # npm install -g npm
 
@@ -397,6 +397,34 @@ Create a project: businesscontacts
 
 Welcome to Firebase page -- > Add Firebaset to your web app
 
+
+Database --> https://businesscontacts-443c0.firebaseio.com/items --> GO
+
+Database --> RULES
+
+replace
+
+    {
+      "rules": {
+        ".read": "auth != null",
+        ".write": "auth != null"
+      }
+    }
+
+<br/>
+
+
+    {
+      "rules": {
+        ".read": "true",
+        ".write": "true"
+      }
+    }
+
+PUBLISH
+
+
+![Application](/img/project_05_img_02.png?raw=true)
 
 <br/>
 <br/>
