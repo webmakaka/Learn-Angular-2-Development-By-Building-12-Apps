@@ -351,7 +351,7 @@ Update rows by Enter button
 
 ### 05 Firebase Business Listings
 
-**Technologies:** angular CLI, Firebase, Foundation
+**Technologies:** Angular CLI, Firebase, Foundation
 
 <br/>
 
@@ -411,8 +411,7 @@ replace
       }
     }
 
-<br/>
-
+on
 
     {
       "rules": {
@@ -446,7 +445,7 @@ Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
             "email": "kshaw@phoca.cz",
             "phone": "1-(414)274-3262",
             "state": "Wisconsin",
-            "steet_address": "569 Sheriden Terrace",
+            "street_address": "569 Sheriden Terrace",
             "years_in_business": "7",
             "zipcode": "63454"
 
@@ -460,7 +459,7 @@ Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
             "email": "kshaw@phoca.cz",
             "phone": "1-(414)274-3262",
             "state": "Wisconsin",
-            "steet_address": "569 Sheriden Terrace",
+            "street_address": "569 Sheriden Terrace",
             "years_in_business": "7",
             "zipcode": "63454"
 
@@ -474,7 +473,7 @@ Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
             "email": "kshaw@phoca.cz",
             "phone": "1-(414)274-3262",
             "state": "Wisconsin",
-            "steet_address": "569 Sheriden Terrace",
+            "street_address": "569 Sheriden Terrace",
             "years_in_business": "7",
             "zipcode": "63454"
 
@@ -488,6 +487,19 @@ Database --> https://businesscontacts-443c0.firebaseio.com/categories --> GO
 later...
 
 ![Application](/img/project_05_img_03.png?raw=true)
+
+<br/>
+
+04 Frontend UI with Foundation
+
+https://cdnjs.com/libraries/foundation
+
+
+![Application](/img/project_05_img_04.png?raw=true)
+
+
+<br/>
+<br/>
 
 ___
 
