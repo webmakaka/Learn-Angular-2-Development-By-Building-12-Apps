@@ -6,20 +6,35 @@ import 'rxjs/add/operator/map';
 @Injectable()
 export class FirebaseService {
     businesses: FirebaseListObservable<Business[]>;
-    categpries: FirebaseListObservable<Categories[]>;
+    categories: FirebaseListObservable<Category[]>;
 
     constructor(private af:AngularFire){
 
     }
 
-    getBusiness(){
-        this.businesses = this.af.database.list('/businesses') as FirebaseListObservable<Business[]>;
+    getBusinesses(category:string = null){
+
+        if(category !=null){
+            this.businesses = this.af.database.list('/businesses', {
+                query:{
+                    orderByChild: 'category',
+                    equalTo: category
+                }
+            }) as FirebaseListObservable<Business[]>;
+        } else {
+            this.businesses = this.af.database.list('/businesses') as FirebaseListObservable<Business[]>;
+        }
+
         return this.businesses;
     }
 
     getCategories(){
-        this.categpries = this.af.database.list('/categories') as FirebaseListObservable<Category[]>;
-        return this.categpries;
+        this.categories = this.af.database.list('/categories') as FirebaseListObservable<Category[]>;
+        return this.categories;
+    }
+
+    addBusiness(newBusiness): Promise<any>{
+        return this.businesses.push(newBusiness);
     }
 }
 

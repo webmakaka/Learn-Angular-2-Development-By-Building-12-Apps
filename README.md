@@ -357,6 +357,7 @@ Update rows by Enter button
 
 02 AngularFire2 Firebase Setup
 
+    // to update
     # npm install -g npm
 
     # npm install -g angular-cli
@@ -452,7 +453,7 @@ Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
         },
 
         "1": {
-            "category": "Retail",
+            "category": "IT",
             "city": "Milwaukee",
             "company": "Apple",
             "description": "Nulla ut erat id mauris vulputate elementum. Nu...",
@@ -466,7 +467,7 @@ Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
         },
 
         "2": {
-            "category": "Retail",
+            "category": "IT",
             "city": "Milwaukee",
             "company": "Microsoft",
             "description": "Nulla ut erat id mauris vulputate elementum. Nu...",
@@ -484,7 +485,24 @@ Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
 
 Database --> https://businesscontacts-443c0.firebaseio.com/categories --> GO
 
-later...
+    {
+        "0": {
+            "name": "IT"
+        },
+
+        "1": {
+            "name": "Retail"
+        },
+
+        "2": {
+            "name": "Auto"
+        },
+
+        "3": {
+            "name": "Consult"
+        }
+    }
+
 
 ![Application](/img/project_05_img_03.png?raw=true)
 
@@ -496,6 +514,17 @@ https://cdnjs.com/libraries/foundation
 
 
 ![Application](/img/project_05_img_04.png?raw=true)
+
+
+<br/>
+
+05 Category Filter Add Businesses
+
+![Application](/img/project_05_img_05.png?raw=true)
+
+![Application](/img/project_05_img_06.png?raw=true)
+
+![Application](/img/project_05_img_07.png?raw=true)
 
 
 <br/>

@@ -24,7 +24,8 @@ export class AppComponent implements OnInit {
   }
 
    ngOnInit(){
-      this._firebaseService.getBusiness().subscribe(businesses => {
+      this.appState = 'default';
+      this._firebaseService.getBusinesses().subscribe(businesses => {
           this.businesses = businesses;
       });
 
@@ -33,12 +34,55 @@ export class AppComponent implements OnInit {
       });
   }
 
-  changeState(state, key){
+  changeState(state, key = null){
       if(key){
           this.activeKey = key;
       }
       this.appState = state;
   }
+
+  filterCategory(category){
+      this._firebaseService.getBusinesses(category).subscribe(businesses => {
+          this.businesses = businesses
+      });
+  }
+
+  addBusiness(
+
+      company:string,
+      category:string,
+      years_in_business:number,
+      description:string,
+      phone:string,
+      email:string,
+      street_address:string,
+      city:string,
+      state:string,
+      zipcode:string
+  ){
+      var created_at = new Date().toString();
+      var newBusiness = {
+          company:company,
+          category:category,
+          years_in_business:years_in_business,
+          description:description,
+          phone:phone,
+          email:email,
+          street_address:street_address,
+          city:city,
+          state:state,
+          zipcode:zipcode,
+          created_at:created_at
+      }
+
+      // console.log(newBusiness);
+
+      this._firebaseService.addBusiness(newBusiness);
+      this.changeState('default');
+
+  }
+
+
 
 }
 
