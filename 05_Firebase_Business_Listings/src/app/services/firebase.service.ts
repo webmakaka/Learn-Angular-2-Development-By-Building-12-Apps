@@ -36,6 +36,14 @@ export class FirebaseService {
     addBusiness(newBusiness): Promise<any>{
         return this.businesses.push(newBusiness);
     }
+
+    updateBusiness(key, updBusiness): Promise<any>{
+        return this.businesses.update(key, updBusiness);
+    }
+
+    deleteBusiness(key){
+        this.businesses.remove(key);
+    }
 }
 
 export interface Business {

@@ -399,7 +399,15 @@ Create a project: businesscontacts
 Welcome to Firebase page -- > Add Firebaset to your web app
 
 
-Database --> https://businesscontacts-443c0.firebaseio.com/items --> GO
+Database --> https://businesscontacts-443c0.firebaseio.com/items --> Import JSON
+
+
+    {
+      "Item One" : "This is the body",
+      "Item Two" : "This is the body"
+    }
+
+
 
 Database --> RULES
 
@@ -432,7 +440,7 @@ PUBLISH
 03 Business Service
 
 
-Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
+Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> Import JSON
 
 <br/>
 <br/>
@@ -483,7 +491,7 @@ Database --> https://businesscontacts-443c0.firebaseio.com/businesses --> GO
 
 <br/>
 
-Database --> https://businesscontacts-443c0.firebaseio.com/categories --> GO
+Database --> https://businesscontacts-443c0.firebaseio.com/categories --> Import JSON
 
     {
         "0": {
@@ -526,6 +534,15 @@ https://cdnjs.com/libraries/foundation
 
 ![Application](/img/project_05_img_07.png?raw=true)
 
+
+<br/>
+
+06 Edit Delete Businesses
+
+
+![Application](/img/project_05_img_08.png?raw=true)
+
+![Application](/img/project_05_img_09.png?raw=true)
 
 <br/>
 <br/>
