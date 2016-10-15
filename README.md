@@ -598,6 +598,12 @@ http://localhost:3000
 ![Application](/img/project_08_img_01.png?raw=true)
 
 
+    $ meteor remove blaze-html-templates
+    $ meteor add angular2-compilers barbatus:angular2-runtime
+
+===
+
+So Difficult for me! Because so many obsoleted packages!
 
 <br/>
 <br/>
