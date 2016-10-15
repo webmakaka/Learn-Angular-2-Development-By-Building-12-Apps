@@ -544,6 +544,61 @@ https://cdnjs.com/libraries/foundation
 
 ![Application](/img/project_05_img_09.png?raw=true)
 
+
+<br/>
+
+### 06 MyWorkouts - Ionic 2 Mobile App
+
+Maybe later
+
+<br/>
+
+### 07 MyWeather - Ionic 2 Mobile App
+
+Maybe later
+
+<br/>
+
+### 08 Webmarks Meteor App
+
+**Technologies:** Meteor
+
+<br/>
+
+02 Meteor Setup
+
+https://www.meteor.com/install
+
+    # apt-get install -y mongodb
+    # mkdir -p /data/db/
+    # mongod
+
+<br/>
+
+    # curl https://install.meteor.com/ | sh
+
+    $ cd 08_Webmarks_Meteor_App/
+
+
+    $ mkdir -p ~/.meteor/local/db  
+
+
+To Fix: Mongodb exit code 1, Restarting
+
+    # apt-get install -y locales
+    # dpkg-reconfigure locales
+
+Locales to be generated: 146  
+Default locale for the system environment: 3  
+
+    $ meteor run --port 3000
+
+http://localhost:3000
+
+![Application](/img/project_08_img_01.png?raw=true)
+
+
+
 <br/>
 <br/>
 
