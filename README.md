@@ -1,8 +1,5 @@
 # [Eduonix] Learn Angular 2 Development By Building 12 Apps
 
-[![Join the chat at https://gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby](https://badges.gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby.svg)](https://gitter.im/Learn-Angular-2-Development-By-Building-12-Apps/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
 
 ![Learn Angular 2 Development By Building 12 Apps](/img/angular-js.png?raw=true)
 
@@ -35,7 +32,7 @@ I'm working on Ubuntu in docker container with debian jessie:
     Docker version 1.9.1, build a34a1d5
 
 
-<a href="http://jsdev.org/env/docker/run-container/">How to run docker container for start development</a>
+<a href="http://jsdev.org/env/docker/run-container/linux/">How to run docker container for start development</a>
 (If link will not work give me to know about it)
 
 <br/>
@@ -614,4 +611,4 @@ email:
 ![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
 
 
-<a href="https://jsdev.org">jsdev.org</a>
+<a href="https://labs.jsdev.org">labs.jsdev.org</a>
