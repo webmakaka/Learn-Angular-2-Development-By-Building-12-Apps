@@ -603,13 +603,13 @@ http://localhost:3000
 So Difficult for me! Because so many obsoleted packages!
 
 
-<br/><br/>
+<br/>
 
-___
+---
+
+<br/>
 
 **Marley**
 
-<a href="https://labs.jsdev.org">labs.jsdev.org</a>
-
-email:  
-![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
