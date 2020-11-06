@@ -1,4 +1,4 @@
-# [Eduonix] Learn Angular 2 Development By Building 12 Apps
+# [Eduonix] Learn Angular 2 Development By Building 12 Apps [ENG, 2016]
 
 
 ![Learn Angular 2 Development By Building 12 Apps](/img/angular-js.png?raw=true)
@@ -6,7 +6,7 @@
 
 <br/>
 
-**Learn Angular 2 Development By Building 12 Apps - 10$** (no ref link, not any interest)  
+**[InfoLink] Learn Angular 2 Development By Building 12 Apps**  
 https://www.kickstarter.com/projects/1311831077/learn-angular-2-development-by-building-10-apps
 
 <br/>
